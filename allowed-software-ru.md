@@ -28,6 +28,8 @@ Vanilla _(ванильный клиент, низкая производител
 
 [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom) _(приближение на C, такое же как в OptiFine, ставить если стоит Sodium)_
 
+[Better Sodium Video Settings](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button) _(больше настроек, если стоит Sodium)_
+
 [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) _(для построек, требует [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib))_
 
 [ReplayMod](https://www.replaymod.com) _(только для создания видеороликов и доказательств)_

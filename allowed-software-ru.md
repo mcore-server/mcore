@@ -13,6 +13,7 @@ Vanilla
 
 [Forge](https://files.minecraftforge.net) _(устарел на новых версиях)_
 
+[OptiFine](https://optifine.net/downloads) _(клиент для игры без модификаций, повышенная производительность)_
 
 ## Модификации
 

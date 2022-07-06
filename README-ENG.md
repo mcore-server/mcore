@@ -20,3 +20,5 @@ Oh yeah, also to play on the server you must have [Discord](https://discord.com/
 
 By the way, at first time this server will be open only for the Russian community.
 Over time, we will try to open the server to people from all over the world.
+
+### [Rules](https://github.com/mcore-server/mcore-server/blob/main/info-en/rules.md) | [Punishments](https://github.com/mcore-server/mcore-server/blob/main/info-en/punishments.md) | [Allowed Software](https://github.com/mcore-server/mcore-server/blob/main/info-en/allowed-software.md)

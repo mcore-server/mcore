@@ -1,3 +1,5 @@
+[Русский🇷🇺](https://github.com/mcore-server/mcore-server/blob/main/README.md)
+
 # 🪐 MCore
 GitHub page of Russian project **MCore**.
 ## Topic

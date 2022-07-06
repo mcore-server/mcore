@@ -7,7 +7,7 @@ MCore - semi-vanilla Minecraft server, working on last versions.
 ## Our goals
 Our main purpose - make a open-source technological and friendly project without a toxic community.
 ## Community
-We want adequate players who respect other people playing on this server.
+We want good players who respect other people playing on this server.
 We will try to restrict access to the project to those whose actions we consider unacceptable.
 ## When the server will be opened?
 It's impossible to give exact figures, but we are guided by the opening within one year.

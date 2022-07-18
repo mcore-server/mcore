@@ -13,8 +13,8 @@ We will try to restrict access to the project to those whose actions we consider
 It's impossible to give exact figures, but we are guided by the opening within one year.
 Right now, we have been actively developing the server since the end of May 2022.
 ## Сurrently under development
-- **[discord-bot](https://github.com/mcore-server/discord-bot)** | 🐍 Python 3.10 | Author: [wr4ck3r](https://github.com/wr4ck3r)
-- **[ImprovedMobs](https://github.com/mcore-server/ImprovedMobs)** | ☕ Java | Author: [pukpukpuk](https://github.com/pukpukpuk)
+- **[MCord](https://github.com/mcore-server/MCord)** | 🐍 Python 3.10 | Author: [wr4ck3r](https://github.com/wr4ck3r)
+- **[MCoreMobs](https://github.com/mcore-server/MCoreMobs)** | ☕ Java | Author: [pukpukpuk](https://github.com/pukpukpuk)
 ## More info
 To get on the server you will need to submit an application
 in future, which will be considered by the project administration.
